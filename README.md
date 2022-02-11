@@ -10,7 +10,7 @@ Tic-Tac-Toe is a paper-and-pencil game for two players, X and O, who take turns 
 Clone this repository and open the `index.html` in your favorite browser!
 
 ```text
-git clone https://github.com/cs280fa21/tic-tac-toe
+git clone https://github.com/cs280spring/tic-tac-toe
 cd tic-tac-toe
 open -a "Google Chrome" index.html # works on macOS
 ```
